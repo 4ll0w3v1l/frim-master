@@ -1,0 +1,14 @@
+header{
+	margin: 0px;
+	background-color: teal;
+	text-align: center;
+}
+header img{
+	border-radius: 300px;
+	border: 30px solid;
+	color: lightyellow;
+}
+h1{
+	font-family: 'Indie Flower', sans-serif;
+	color:darkmagenta;
+}
